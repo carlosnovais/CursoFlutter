@@ -1,5 +1,3 @@
-import 'package:atividade1_repeticao/atividade1_repeticao.dart'
-    as atividade1_repeticao;
 import 'dart:io';
 
 void main(List<String> arguments) {
